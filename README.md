@@ -10,7 +10,7 @@ estudante de ADS - unipê 1p
 
 
 ## 🛠 Skills
-aprendendo: HTML, CSS e python
+aprendendo: HTML, CSS 
 
 
 
